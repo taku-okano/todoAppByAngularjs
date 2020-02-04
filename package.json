@@ -1,0 +1,23 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taku-okano/todoAppByAngularjs.git"
+  },
+  "author": "taku-okano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taku-okano/todoAppByAngularjs/issues"
+  },
+  "homepage": "https://github.com/taku-okano/todoAppByAngularjs#readme",
+  "devDependencies": {
+    "electron": "^8.0.0",
+    "electron-packager": "^14.2.0"
+  }
+}
